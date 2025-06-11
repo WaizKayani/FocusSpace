@@ -1,0 +1,1 @@
+FocusSpace is an immersive productivity app built for Apple Vision Pro using visionOS. It features a spatial to-do list, Pomodoro timer, and ambient sound controller to help users stay focused in a 3D environment. Built with SwiftUI, RealityKit, and AVFoundation, the app delivers an intuitive mixed reality experience for managing tasks and time more effectively.
